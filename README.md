@@ -1,2 +1,2 @@
 # TSTCLinuxFunTime
-TSTC Linux trials and tribulations 
+TSTC Linux trials and tribulations for today and beyond! 
